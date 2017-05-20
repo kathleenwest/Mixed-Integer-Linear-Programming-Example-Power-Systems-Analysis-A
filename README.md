@@ -20,3 +20,8 @@ Hints
 
 • If a unit is committed, a no-load cost will be incurred. 
 • Cost curve for G1 is convex when it’s committed. Cost curve for G2 is non-convex when it’s committed.
+
+
+2. Find the mixed-integer linear programming formulation and the optimal solutions for ....
+
+3. Solve the following problems using Benders decomposition.....
