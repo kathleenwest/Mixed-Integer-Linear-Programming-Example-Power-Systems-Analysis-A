@@ -1,6 +1,6 @@
 # Mixed-Integer-Linear-Programming-Example-Power-Systems-Analysis-A
 
-Project Blog Article Here:
+Project Blog Article Here: https://portfolio.katiegirl.net/2019/03/03/a-mixed-integer-linear-programming-milp-problem-for-generator-bids/
 
 The Challenge
 
